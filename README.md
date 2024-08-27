@@ -61,8 +61,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LMachadoS/LMachadoS/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h2 align="left">🔗Portifólio</h2>
